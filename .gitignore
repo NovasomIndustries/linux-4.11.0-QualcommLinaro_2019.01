@@ -54,9 +54,6 @@ Module.symvers
 #
 /debian/
 
-#logo dirs
-/drivers/video/logo/
-
 #
 # tar directory (make tar*-pkg)
 #
